@@ -1,7 +1,7 @@
 /**
  * Well known colors for a NeoPixel strip
  */
-enum NeoPixelColors {
+enum 库壳显示器 {
     //% block=red
     Red = 0xFF0000,
     //% block=orange
