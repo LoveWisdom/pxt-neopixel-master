@@ -1,7 +1,7 @@
 {
-    "name": "neopixel",
+    "name": "库壳显示器",
     "version": "0.6.12",
-    "description": "AdaFruit NeoPixel driver",
+    "description": "库壳出品，必属精品",
     "license": "MIT",
     "dependencies": {
         "core": "*",
